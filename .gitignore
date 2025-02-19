@@ -9,6 +9,7 @@ lib/
 yarn-error.log
 docs/_dist/
 
+asd.ts
 
 .DS_Store
 
