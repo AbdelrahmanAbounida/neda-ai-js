@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "workspaces": [
+    "core",
+    "libs/*",
+    "neda-1i",
+    "docs/*"
+  ],
   "keywords": [
     "ai",
     "langchain",
